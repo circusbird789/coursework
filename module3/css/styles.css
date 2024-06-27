@@ -8,10 +8,6 @@ body {
   border: 0;
 }
 
-.navbar-brand {
-  padding-top: 25px;
-}
-
 /* Restaurant name */
 .navbar-brand h1 {
   color: #000000;
