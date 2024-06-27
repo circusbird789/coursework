@@ -14,10 +14,12 @@ body {
 
 /* Restaurant name */
 .navbar-brand h1 {
-  color: #2C1A1D;
+  color: #000000;
+  font-size: 1.5em;
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 0;
+  line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
