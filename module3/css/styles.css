@@ -2,6 +2,16 @@ body {
   font-family: 'Comic Sans MS', cursive;
 }
 
+/** navbar **/
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
 /* Restaurant name */
 .navbar-brand h1 {
   color: #2C1A1D;
