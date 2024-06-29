@@ -31,3 +31,11 @@ navigation.toggled ul {
   margin: 0;
   padding-left: 0;
 }
+
+/*restaurant menu stuff*/
+.menu {
+  margin: 4px;
+  padding: 10px;
+  border: 5px solid #000000;
+  background-color: #e0e0e0;
+}
