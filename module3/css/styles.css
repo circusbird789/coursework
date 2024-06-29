@@ -31,3 +31,9 @@ navigation.toggled ul {
   margin: 0;
   padding-left: 0;
 }
+
+.col-md-4 {
+  background-color: #999999;
+  margin: 4px;
+  padding: 10px;
+}
